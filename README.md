@@ -6,6 +6,7 @@
 ---
 
 [![Demo Video](https://img.youtube.com/vi/DU7YMgwfK4A/maxresdefault.jpg)](https://youtu.be/DU7YMgwfK4A)
+![Gameplay](docs/screenshot.png)
 
 ---
 
